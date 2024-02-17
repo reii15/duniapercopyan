@@ -1,0 +1,43 @@
+/* style.css */
+
+/* Navbar */
+.navbar {
+    background-color: #343a40;
+  }
+  
+  .navbar-brand {
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  .navbar-brand img {
+    margin-right: 5px;
+    width: 30px;
+    height: 24px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffffff;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #a5a5a5;
+  }
+  
+  /* Container */
+  .container {
+    margin-top: 20px;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Add more styles as needed */
+  
+  /* Example: Style for 'Home' page content */
+ 
+    /* Add your styles here */
+  
+  

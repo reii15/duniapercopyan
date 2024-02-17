@@ -1,0 +1,53 @@
+/* CSS untuk menata tampilan formulir login */
+.demo-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8f9fa;
+}
+
+.image-size-small img {
+  width: 120px;
+  height: 120px;
+}
+
+.icon-camera {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}
+
+.text-primary {
+  color: #007bff !important;
+}
+
+.font-500 {
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+/* Responsive styling */
+@media (max-width: 576px) {
+  .image-size-small img {
+    width: 80px;
+    height: 80px;
+  }
+}
